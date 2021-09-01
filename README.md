@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TomWoolley12
-- 👀 I’m interested in creating a decentralized music ecosystem using P.O.S consensus where the biggest artists serve as the network's validators. Token distribution will rebalance on a daily or weekly basis based on contribution to the network. 
+- 👀 I’m interested in creating a decentralized music ecosystem using P.O.S consensus where artists and fans can stake in each other's work. I envision periodic (daily or weekly) rebalances of total token distribution. This will reward the most streamed artists while incentivizing fans and legacy token holders to remain invested in the network. 
 - 🌱 I’m currently learning the fundamentals of blockchain technology. Additionally, I would like to learn some coding basics... I have a ways to go
-- 💞️ I’m looking to collaborate on a decentralized music platform
+- 💞️ I’m looking to collaborate on this project and hear whether y'all think this is feasible.
 - 📫 You can reach me at 267-800-4079 or my email: thomaswoolley1613@gmail.com
 
 <!---
